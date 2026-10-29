@@ -7,7 +7,7 @@ lang: tr
 
 # Gizlilik Politikası — Pocket Business City
 
-**Son güncelleme:** 29 Ağustos 2026
+**Son güncelleme:** 29 Ekim 2026
 
 ## Kısa özet
 
@@ -116,6 +116,12 @@ katılmayı seçmedikçe cihazdan çıkmaz" olmasının sebebi budur. Şehrinle 
 başka hiçbir şey gönderilmez: kaydın da, işletmelerin de, bakiyen de.
 
 İstediğin an Ayarlar'dan ayrılabilirsin; ayrılmak kaydını siler.
+
+**Bildirme ve gizleme.** Başka bir oyuncunun adına dokunarak onu listenden
+gizleyebilir veya bildirebilirsin. Gizleme cihazında kalır. Bildirim; bildirilen
+adı, onun anonim tanımlayıcısını ve haftayı — listede zaten görünen bilgileri —
+gönderir, seninle ilgili hiçbir şey göndermez; katılmadan çalışır ve hesap
+oluşturmaz. Bildirimleri inceler, kurallara aykırı adları kaldırırız.
 
 ## Cihaz izinleri
 

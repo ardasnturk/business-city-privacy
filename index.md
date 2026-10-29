@@ -7,7 +7,7 @@ lang: en
 
 # Privacy Policy — Pocket Business City
 
-**Last updated:** 29 August 2026
+**Last updated:** 29 October 2026
 
 ## The short version
 
@@ -115,6 +115,12 @@ _unless you join_. Nothing else about your city is sent: not your save, not your
 businesses, not your balance.
 
 You can leave at any time in Settings, which deletes your entry.
+
+**Reporting and hiding.** Tap another player's name to hide it from your board
+or to report it. Hiding stays on your device. A report sends the reported
+name, its anonymous identifier and the week — the same things already shown on
+the board — and nothing about you; it works without joining and creates no
+account. We review reports and remove names that break the rules.
 
 ## Device permissions
 
